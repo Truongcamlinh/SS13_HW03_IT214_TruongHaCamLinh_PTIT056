@@ -1,10 +1,5 @@
 # SS13 HW03 - Half-Open và Time-Based Circuit Breaker
 
-**Sinh viên:** Trương Hà Cẩm Linh
-
-**Lớp:** IT214
-
-**Mã sinh viên:** PTIT056
 
 ## Cấu hình SLA
 
